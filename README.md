@@ -1,1 +1,1 @@
-# sevendatarivers.com
+#### Thank you for using ***`create-zion-template`***
